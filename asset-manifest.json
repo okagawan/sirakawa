@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/sirakawa/static/js/main.ebcc2d17.js",
+    "main.css": "/sirakawa/static/css/main.e6c13ad2.css",
+    "main.js": "/sirakawa/static/js/main.7d25c288.js",
     "index.html": "/sirakawa/index.html",
-    "main.ebcc2d17.js.map": "/sirakawa/static/js/main.ebcc2d17.js.map"
+    "main.e6c13ad2.css.map": "/sirakawa/static/css/main.e6c13ad2.css.map",
+    "main.7d25c288.js.map": "/sirakawa/static/js/main.7d25c288.js.map"
   },
   "entrypoints": [
-    "static/js/main.ebcc2d17.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d25c288.js"
   ]
 }
